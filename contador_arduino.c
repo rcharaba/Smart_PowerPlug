@@ -1,3 +1,10 @@
+/********************************************************
+ * Frequency meter for ADE 7757
+ * by Rodrigo Charaba
+ * License: Creative-Commons Attribution Share-Alike
+ * February 2013
+ ********************************************************/
+
 long tempo;
 double pulso,pot;
 void setup() 

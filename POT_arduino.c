@@ -1,3 +1,10 @@
+/********************************************************
+ * Frequency meter for test in LCD
+ * by Rodrigo Charaba
+ * License: Creative-Commons Attribution Share-Alike
+ * February 2013
+ ********************************************************/
+
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(13,12,11,10,9,8);
